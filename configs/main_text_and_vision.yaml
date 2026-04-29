@@ -1,0 +1,19 @@
+# Reference settings for the main low-budget text and vision experiments.
+# The shell scripts expose these values as environment variables.
+seeds: [0, 1, 2, 3]
+retained_budgets: [1, 2, 4]
+lora_rank: 16
+methods:
+  report: [random, mag, grad, curv, v1, v2, v5, greedy_v5]
+  plot: [mag, v1, v2, v5, greedy_v5]
+text:
+  entrypoint: retained_subspace.glue_experiment
+  tasks: [mnli, qnli, mrpc]
+  model: distilbert-base-uncased
+  target_modules: [q_lin, v_lin]
+  split_policy: clean_train_holdout
+vision:
+  entrypoint: retained_subspace.vision_experiment
+  datasets: [cifar10, cifar100]
+  model: google/vit-base-patch16-224
+  target_modules: [query, value]

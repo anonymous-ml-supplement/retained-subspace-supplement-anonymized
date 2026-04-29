@@ -1,0 +1,17 @@
+table_label,dataset,k,selector,metric,stat,seed,paper_value,source_value,delta,status,source_id
+tab:llm_generative_results,GSM8K,1,Magnitude,accuracy,mean,,49.02,49.023438,0.003438,MATCH,llm_generative
+tab:llm_generative_results,GSM8K,1,URS,accuracy,mean,,50.49,50.488281,0.001719,MATCH,llm_generative
+tab:llm_generative_results,GSM8K,2,Magnitude,accuracy,mean,,52.64,52.636719,0.003281,MATCH,llm_generative
+tab:llm_generative_results,GSM8K,2,URS,accuracy,mean,,55.96,55.957031,0.002969,MATCH,llm_generative
+tab:llm_generative_results,GSM8K,4,Magnitude,accuracy,mean,,73.05,73.046875,0.003125,MATCH,llm_generative
+tab:llm_generative_results,GSM8K,4,URS,accuracy,mean,,74.12,74.121094,0.001094,MATCH,llm_generative
+tab:llm_generative_results,GSM8K,avg,Magnitude,accuracy,mean,,58.24,58.235677,0.004323,MATCH,llm_generative
+tab:llm_generative_results,GSM8K,avg,URS,accuracy,mean,,60.19,60.188802,0.001198,MATCH,llm_generative
+tab:llm_generative_results,HumanEval+,1,Magnitude,pass@1 (%),mean,0;1;2;3,36.89,36.8902439024,0.000244,MATCH,llm_generative
+tab:llm_generative_results,HumanEval+,1,URS,pass@1 (%),mean,0;1;2;3,37.04,37.0426829268,0.002683,MATCH,llm_generative
+tab:llm_generative_results,HumanEval+,2,Magnitude,pass@1 (%),mean,0;1;2;3,37.2,37.1951219512,0.004878,MATCH,llm_generative
+tab:llm_generative_results,HumanEval+,2,URS,pass@1 (%),mean,0;1;2;3,37.5,37.5,0.0,MATCH,llm_generative
+tab:llm_generative_results,HumanEval+,4,Magnitude,pass@1 (%),mean,0;1;2;3,36.89,36.8902439024,0.000244,MATCH,llm_generative
+tab:llm_generative_results,HumanEval+,4,URS,pass@1 (%),mean,0;1;2;3,39.48,39.4817073171,0.001707,MATCH,llm_generative
+tab:llm_generative_results,HumanEval+,avg,Magnitude,pass@1 (%),mean,0;1;2;3,36.99,36.9918699187,0.00187,MATCH,llm_generative
+tab:llm_generative_results,HumanEval+,avg,URS,pass@1 (%),mean,0;1;2;3,38.01,38.0081300813,0.00187,MATCH,llm_generative

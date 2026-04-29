@@ -1,0 +1,7 @@
+selection_split,k,paper_mean,mean_status,paper_std,std_status
+HANS-derived Dsel (adversarial shift),1,0.76,MATCH,1.25,MATCH
+HANS-derived Dsel (adversarial shift),2,1.84,MATCH,2.84,MATCH
+HANS-derived Dsel (adversarial shift),4,3.49,MATCH,5.03,MATCH
+MNLI validation (in-distribution),1,0.76,MATCH,1.25,MATCH
+MNLI validation (in-distribution),2,2.35,MATCH,2.03,MATCH
+MNLI validation (in-distribution),4,5.37,MATCH,2.69,MATCH

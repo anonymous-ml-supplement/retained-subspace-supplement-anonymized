@@ -1,0 +1,9 @@
+table_label,dataset,k,method_display,method,metric,stat,seed,paper_value,delta,status
+tab:llm_generative_results,HumanEval+,1,Magnitude,Magnitude,EvalPlus pass@1 / plus_pass_rate (%),mean,0;1;2;3,36.89,0.000244,MATCH
+tab:llm_generative_results,HumanEval+,1,URS,URS,EvalPlus pass@1 / plus_pass_rate (%),mean,0;1;2;3,37.04,0.002683,MATCH
+tab:llm_generative_results,HumanEval+,2,Magnitude,Magnitude,EvalPlus pass@1 / plus_pass_rate (%),mean,0;1;2;3,37.2,0.004878,MATCH
+tab:llm_generative_results,HumanEval+,2,URS,URS,EvalPlus pass@1 / plus_pass_rate (%),mean,0;1;2;3,37.5,0.0,MATCH
+tab:llm_generative_results,HumanEval+,4,Magnitude,Magnitude,EvalPlus pass@1 / plus_pass_rate (%),mean,0;1;2;3,36.89,0.000244,MATCH
+tab:llm_generative_results,HumanEval+,4,URS,URS,EvalPlus pass@1 / plus_pass_rate (%),mean,0;1;2;3,39.48,0.001707,MATCH
+tab:llm_generative_results,HumanEval+,avg,Magnitude,Magnitude,EvalPlus pass@1 / plus_pass_rate (%),mean,0;1;2;3,36.99,0.00187,MATCH
+tab:llm_generative_results,HumanEval+,avg,URS,URS,EvalPlus pass@1 / plus_pass_rate (%),mean,0;1;2;3,38.01,0.00187,MATCH

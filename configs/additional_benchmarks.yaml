@@ -1,0 +1,13 @@
+# Additional benchmark script defaults.
+# Override any value from the shell before running scripts/run_additional_benchmarks.sh.
+seeds_csv: "0,1,2,3"
+topks_csv: "1,2,4"
+lora_rank: 16
+glue_additional_tasks: [sst2, cola, qqp]
+vision_additional_tasks: [food101, eurosat]
+food101_model_name: google/vit-base-patch16-224
+food101_target_modules: [query, value]
+eurosat_model_name: openai/clip-vit-large-patch14
+eurosat_target_modules: [q_proj, v_proj]
+report_methods: [random, mag, grad, curv, v1, v2, v5, greedy_v5]
+plot_methods: [mag, v1, v2, v5, greedy_v5]

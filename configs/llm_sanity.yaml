@@ -1,0 +1,19 @@
+# Reference settings for supporting generative LLM retained-subspace checks.
+seeds: [0, 1, 2, 3]
+retained_budgets: [1, 2, 4]
+gsm8k_qwen_math_7b:
+  script: llm_sanity/gsm8k_qwen_math7b_experiment.py
+  model: Qwen/Qwen2.5-Math-7B
+  lora_rank: 16
+  lora_alpha: 32
+  methods: [mag, v5]
+gsm8k_mistral_larger_pool:
+  script: llm_sanity/gsm8k_mistral_larger_pool_experiment.py
+  model: mistralai/Mistral-7B-Instruct-v0.2
+  lora_ranks: [32, 64]
+humanevalplus_qwen_coder_7b:
+  script: llm_sanity/humanevalplus_qwen_coder7b_experiment.py
+  launcher: llm_sanity/humanevalplus_qwen_coder7b_launcher.py
+  model: Qwen/Qwen2.5-Coder-7B-Instruct
+  metric: HumanEval+ pass@1 from EvalPlus plus-suite
+  note: Syntax-valid rate is kept only as a diagnostic; paper-facing summary files use pass@1.

@@ -1,0 +1,8 @@
+table_label,release_file,checked_cells,matched_cells,status
+tab:additional_results_review_grouped,additional_low_budget_values.csv,40,40,all_checked_cells_match
+tab:gate_active_resampling,gate_active_resampling_checked.csv,30,30,all_checked_cells_match
+tab:hans_shift,hans_shift_values.csv,12,12,all_checked_cells_match
+tab:llm_generative_results,llm_generative_values.csv,16,16,all_checked_cells_match
+tab:main_results_review_grouped,main_low_budget_values.csv,60,60,all_checked_cells_match
+tab:per_seed_main_nlp,per_seed_main_nlp.csv,108,108,all_checked_cells_match
+tab:per_seed_main_vision,per_seed_main_vision.csv,72,72,all_checked_cells_match

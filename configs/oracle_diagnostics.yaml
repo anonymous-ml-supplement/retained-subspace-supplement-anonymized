@@ -1,0 +1,11 @@
+# Reference settings for exact small-k subset oracle diagnostics.
+seeds: [0, 1, 2, 3]
+retained_budgets: [1, 2, 4]
+lora_rank: 16
+methods: [mag, v5]
+text_tasks: [mnli, qnli, mrpc]
+vision_datasets: [cifar100]
+oracle:
+  enable_exact_subset_oracle: true
+  max_k: 4
+  max_seeds: 4

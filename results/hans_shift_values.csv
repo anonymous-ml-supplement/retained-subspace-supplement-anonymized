@@ -1,0 +1,13 @@
+table_label,dataset,k,selector,metric,stat,seed,paper_value,source_value,delta,status,source_id
+tab:hans_shift,HANS-derived Dsel (adversarial shift),1,URS - Magnitude,MNLI test accuracy delta (pp),mean,0;1;2;3,0.76,0.7577298617,0.00227,MATCH,hans_shift
+tab:hans_shift,HANS-derived Dsel (adversarial shift),1,URS - Magnitude,MNLI test accuracy delta (pp),std,0;1;2;3,1.25,1.2470416503,0.002958,MATCH,hans_shift
+tab:hans_shift,HANS-derived Dsel (adversarial shift),2,URS - Magnitude,MNLI test accuracy delta (pp),mean,0;1;2;3,1.84,1.8409275834,0.000928,MATCH,hans_shift
+tab:hans_shift,HANS-derived Dsel (adversarial shift),2,URS - Magnitude,MNLI test accuracy delta (pp),std,0;1;2;3,2.84,2.8371807232,0.002819,MATCH,hans_shift
+tab:hans_shift,HANS-derived Dsel (adversarial shift),4,URS - Magnitude,MNLI test accuracy delta (pp),mean,0;1;2;3,3.49,3.4860659072,0.003934,MATCH,hans_shift
+tab:hans_shift,HANS-derived Dsel (adversarial shift),4,URS - Magnitude,MNLI test accuracy delta (pp),std,0;1;2;3,5.03,5.0262172902,0.003783,MATCH,hans_shift
+tab:hans_shift,MNLI validation (in-distribution),1,URS - Magnitude,MNLI test accuracy delta (pp),mean,0;1;2;3,0.76,0.7577298617,0.00227,MATCH,hans_shift
+tab:hans_shift,MNLI validation (in-distribution),1,URS - Magnitude,MNLI test accuracy delta (pp),std,0;1;2;3,1.25,1.2470416503,0.002958,MATCH,hans_shift
+tab:hans_shift,MNLI validation (in-distribution),2,URS - Magnitude,MNLI test accuracy delta (pp),mean,0;1;2;3,2.35,2.3520138324,0.002014,MATCH,hans_shift
+tab:hans_shift,MNLI validation (in-distribution),2,URS - Magnitude,MNLI test accuracy delta (pp),std,0;1;2;3,2.03,2.0332309822,0.003231,MATCH,hans_shift
+tab:hans_shift,MNLI validation (in-distribution),4,URS - Magnitude,MNLI test accuracy delta (pp),mean,0;1;2;3,5.37,5.3702196908,0.00022,MATCH,hans_shift
+tab:hans_shift,MNLI validation (in-distribution),4,URS - Magnitude,MNLI test accuracy delta (pp),std,0;1;2;3,2.69,2.6867402855,0.00326,MATCH,hans_shift

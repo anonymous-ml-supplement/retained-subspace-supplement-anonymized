@@ -1,0 +1,339 @@
+table_label,dataset,k,selector,metric,stat,seed,paper_value,source_value,delta,status,source_id
+tab:main_results_review_grouped,MNLI,1,Magnitude,accuracy,mean,,38.96,38.962063,0.002063,MATCH,main_low_budget
+tab:main_results_review_grouped,MNLI,1,URS-E_i,accuracy,mean,,39.72,39.719793,0.000207,MATCH,main_low_budget
+tab:main_results_review_grouped,MNLI,1,URS,accuracy,mean,,39.72,39.719793,0.000207,MATCH,main_low_budget
+tab:main_results_review_grouped,MNLI,2,Magnitude,accuracy,mean,,41.56,41.555635,0.004365,MATCH,main_low_budget
+tab:main_results_review_grouped,MNLI,2,URS-E_i,accuracy,mean,,43.91,43.907648,0.002352,MATCH,main_low_budget
+tab:main_results_review_grouped,MNLI,2,URS,accuracy,mean,,43.91,43.907648,0.002352,MATCH,main_low_budget
+tab:main_results_review_grouped,MNLI,4,Magnitude,accuracy,mean,,50.1,50.096623,0.003377,MATCH,main_low_budget
+tab:main_results_review_grouped,MNLI,4,URS-E_i,accuracy,mean,,55.47,55.466843,0.003157,MATCH,main_low_budget
+tab:main_results_review_grouped,MNLI,4,URS,accuracy,mean,,55.47,55.466843,0.003157,MATCH,main_low_budget
+tab:main_results_review_grouped,MNLI,avg,Magnitude,accuracy,mean,,43.54,43.538107,0.001893,MATCH,main_low_budget
+tab:main_results_review_grouped,MNLI,avg,URS-E_i,accuracy,mean,,46.37,46.364761,0.005239,MATCH,main_low_budget
+tab:main_results_review_grouped,MNLI,avg,URS,accuracy,mean,,46.37,46.364761,0.005239,MATCH,main_low_budget
+tab:main_results_review_grouped,QNLI,1,Magnitude,accuracy,mean,,53.26,53.257757,0.002243,MATCH,main_low_budget
+tab:main_results_review_grouped,QNLI,1,URS-E_i,accuracy,mean,,53.76,53.75895,0.00105,MATCH,main_low_budget
+tab:main_results_review_grouped,QNLI,1,URS,accuracy,mean,,53.76,53.75895,0.00105,MATCH,main_low_budget
+tab:main_results_review_grouped,QNLI,2,Magnitude,accuracy,mean,,54.88,54.875895,0.004105,MATCH,main_low_budget
+tab:main_results_review_grouped,QNLI,2,URS-E_i,accuracy,mean,,55.56,55.560859,0.000859,MATCH,main_low_budget
+tab:main_results_review_grouped,QNLI,2,URS,accuracy,mean,,55.56,55.560859,0.000859,MATCH,main_low_budget
+tab:main_results_review_grouped,QNLI,4,Magnitude,accuracy,mean,,60.16,60.155131,0.004869,MATCH,main_low_budget
+tab:main_results_review_grouped,QNLI,4,URS-E_i,accuracy,mean,,61.11,61.112172,0.002172,MATCH,main_low_budget
+tab:main_results_review_grouped,QNLI,4,URS,accuracy,mean,,61.11,61.112172,0.002172,MATCH,main_low_budget
+tab:main_results_review_grouped,QNLI,avg,Magnitude,accuracy,mean,,56.1,56.096261,0.003739,MATCH,main_low_budget
+tab:main_results_review_grouped,QNLI,avg,URS-E_i,accuracy,mean,,56.81,56.81066,0.00066,MATCH,main_low_budget
+tab:main_results_review_grouped,QNLI,avg,URS,accuracy,mean,,56.81,56.81066,0.00066,MATCH,main_low_budget
+tab:main_results_review_grouped,MRPC,1,Magnitude,accuracy,mean,,54.56,54.564033,0.004033,MATCH,main_low_budget
+tab:main_results_review_grouped,MRPC,1,URS-E_i,accuracy,mean,,55.86,55.858311,0.001689,MATCH,main_low_budget
+tab:main_results_review_grouped,MRPC,1,URS,accuracy,mean,,55.86,55.858311,0.001689,MATCH,main_low_budget
+tab:main_results_review_grouped,MRPC,2,Magnitude,accuracy,mean,,56.95,56.948229,0.001771,MATCH,main_low_budget
+tab:main_results_review_grouped,MRPC,2,URS-E_i,accuracy,mean,,58.51,58.514986,0.004986,MATCH,main_low_budget
+tab:main_results_review_grouped,MRPC,2,URS,accuracy,mean,,58.51,58.514986,0.004986,MATCH,main_low_budget
+tab:main_results_review_grouped,MRPC,4,Magnitude,accuracy,mean,,63.42,63.419619,0.000381,MATCH,main_low_budget
+tab:main_results_review_grouped,MRPC,4,URS-E_i,accuracy,mean,,66.01,66.008174,0.001826,MATCH,main_low_budget
+tab:main_results_review_grouped,MRPC,4,URS,accuracy,mean,,66.01,66.008174,0.001826,MATCH,main_low_budget
+tab:main_results_review_grouped,MRPC,avg,Magnitude,accuracy,mean,,58.31,58.310627,0.000627,MATCH,main_low_budget
+tab:main_results_review_grouped,MRPC,avg,URS-E_i,accuracy,mean,,60.13,60.127157,0.002843,MATCH,main_low_budget
+tab:main_results_review_grouped,MRPC,avg,URS,accuracy,mean,,60.13,60.127157,0.002843,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-10,1,Magnitude,accuracy,mean,,93.3,93.305,0.005,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-10,1,URS-E_i,accuracy,mean,,93.46,93.4575,0.0025,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-10,1,URS,accuracy,mean,,93.46,93.4575,0.0025,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-10,2,Magnitude,accuracy,mean,,94.53,94.5275,0.0025,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-10,2,URS-E_i,accuracy,mean,,94.96,94.9625,0.0025,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-10,2,URS,accuracy,mean,,94.96,94.9625,0.0025,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-10,4,Magnitude,accuracy,mean,,96.56,96.56,0.0,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-10,4,URS-E_i,accuracy,mean,,96.77,96.765,0.005,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-10,4,URS,accuracy,mean,,96.77,96.765,0.005,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-10,avg,Magnitude,accuracy,mean,,94.8,94.7975,0.0025,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-10,avg,URS-E_i,accuracy,mean,,95.06,95.061667,0.001667,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-10,avg,URS,accuracy,mean,,95.06,95.061667,0.001667,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-100,1,Magnitude,accuracy,mean,,79.59,79.59,0.0,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-100,1,URS-E_i,accuracy,mean,,79.9,79.9,0.0,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-100,1,URS,accuracy,mean,,79.9,79.9,0.0,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-100,2,Magnitude,accuracy,mean,,82.07,82.0725,0.0025,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-100,2,URS-E_i,accuracy,mean,,82.66,82.6625,0.0025,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-100,2,URS,accuracy,mean,,82.66,82.6625,0.0025,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-100,4,Magnitude,accuracy,mean,,85.74,85.7425,0.0025,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-100,4,URS-E_i,accuracy,mean,,86.2,86.1975,0.0025,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-100,4,URS,accuracy,mean,,86.2,86.1975,0.0025,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-100,avg,Magnitude,accuracy,mean,,82.47,82.468333,0.001667,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-100,avg,URS-E_i,accuracy,mean,,82.92,82.92,0.0,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-100,avg,URS,accuracy,mean,,82.92,82.92,0.0,MATCH,main_low_budget
+tab:additional_results_review_grouped,QQP,1,Magnitude,accuracy,mean,,65.33,65.327058,0.002942,MATCH,additional_low_budget
+tab:additional_results_review_grouped,QQP,1,URS,accuracy,mean,,65.93,65.931703,0.001703,MATCH,additional_low_budget
+tab:additional_results_review_grouped,QQP,2,Magnitude,accuracy,mean,,66.73,66.726673,0.003327,MATCH,additional_low_budget
+tab:additional_results_review_grouped,QQP,2,URS,accuracy,mean,,68.22,68.218359,0.001641,MATCH,additional_low_budget
+tab:additional_results_review_grouped,QQP,4,Magnitude,accuracy,mean,,70.57,70.574413,0.004413,MATCH,additional_low_budget
+tab:additional_results_review_grouped,QQP,4,URS,accuracy,mean,,74.96,74.964958,0.004958,MATCH,additional_low_budget
+tab:additional_results_review_grouped,QQP,avg,Magnitude,accuracy,mean,,67.54,67.542714,0.002714,MATCH,additional_low_budget
+tab:additional_results_review_grouped,QQP,avg,URS,accuracy,mean,,69.7,69.705007,0.005007,MATCH,additional_low_budget
+tab:additional_results_review_grouped,SST-2,1,Magnitude,accuracy,mean,,80.49,80.49369,0.00369,MATCH,additional_low_budget
+tab:additional_results_review_grouped,SST-2,1,URS,accuracy,mean,,81.44,81.436526,0.003474,MATCH,additional_low_budget
+tab:additional_results_review_grouped,SST-2,2,Magnitude,accuracy,mean,,83.27,83.266518,0.003482,MATCH,additional_low_budget
+tab:additional_results_review_grouped,SST-2,2,URS,accuracy,mean,,84.45,84.454343,0.004343,MATCH,additional_low_budget
+tab:additional_results_review_grouped,SST-2,4,Magnitude,accuracy,mean,,87.67,87.665182,0.004818,MATCH,additional_low_budget
+tab:additional_results_review_grouped,SST-2,4,URS,accuracy,mean,,87.82,87.821084,0.001084,MATCH,additional_low_budget
+tab:additional_results_review_grouped,SST-2,avg,Magnitude,accuracy,mean,,83.81,83.808463,0.001537,MATCH,additional_low_budget
+tab:additional_results_review_grouped,SST-2,avg,URS,accuracy,mean,,84.57,84.570651,0.000651,MATCH,additional_low_budget
+tab:additional_results_review_grouped,CoLA,1,Magnitude,accuracy,mean,,70.68,70.67757,0.00243,MATCH,additional_low_budget
+tab:additional_results_review_grouped,CoLA,1,URS,accuracy,mean,,70.71,70.706776,0.003224,MATCH,additional_low_budget
+tab:additional_results_review_grouped,CoLA,2,Magnitude,accuracy,mean,,70.88,70.882009,0.002009,MATCH,additional_low_budget
+tab:additional_results_review_grouped,CoLA,2,URS,accuracy,mean,,70.97,70.969626,0.000374,MATCH,additional_low_budget
+tab:additional_results_review_grouped,CoLA,4,Magnitude,accuracy,mean,,71.2,71.203271,0.003271,MATCH,additional_low_budget
+tab:additional_results_review_grouped,CoLA,4,URS,accuracy,mean,,71.55,71.553738,0.003738,MATCH,additional_low_budget
+tab:additional_results_review_grouped,CoLA,avg,Magnitude,accuracy,mean,,70.92,70.92095,0.00095,MATCH,additional_low_budget
+tab:additional_results_review_grouped,CoLA,avg,URS,accuracy,mean,,71.08,71.076713,0.003287,MATCH,additional_low_budget
+tab:additional_results_review_grouped,Food-101,1,Magnitude,accuracy,mean,,89.22,89.224752,0.004752,MATCH,additional_low_budget
+tab:additional_results_review_grouped,Food-101,1,URS,accuracy,mean,,89.34,89.338614,0.001386,MATCH,additional_low_budget
+tab:additional_results_review_grouped,Food-101,2,Magnitude,accuracy,mean,,90.96,90.964356,0.004356,MATCH,additional_low_budget
+tab:additional_results_review_grouped,Food-101,2,URS,accuracy,mean,,91.11,91.112871,0.002871,MATCH,additional_low_budget
+tab:additional_results_review_grouped,Food-101,4,Magnitude,accuracy,mean,,92.88,92.875248,0.004752,MATCH,additional_low_budget
+tab:additional_results_review_grouped,Food-101,4,URS,accuracy,mean,,93.14,93.141584,0.001584,MATCH,additional_low_budget
+tab:additional_results_review_grouped,Food-101,avg,Magnitude,accuracy,mean,,91.02,91.021452,0.001452,MATCH,additional_low_budget
+tab:additional_results_review_grouped,Food-101,avg,URS,accuracy,mean,,91.2,91.19769,0.00231,MATCH,additional_low_budget
+tab:additional_results_review_grouped,EuroSAT,1,Magnitude,accuracy,mean,,58.74,58.740741,0.000741,MATCH,additional_low_budget
+tab:additional_results_review_grouped,EuroSAT,1,URS,accuracy,mean,,60.36,60.361111,0.001111,MATCH,additional_low_budget
+tab:additional_results_review_grouped,EuroSAT,2,Magnitude,accuracy,mean,,73.56,73.555556,0.004444,MATCH,additional_low_budget
+tab:additional_results_review_grouped,EuroSAT,2,URS,accuracy,mean,,75.7,75.703704,0.003704,MATCH,additional_low_budget
+tab:additional_results_review_grouped,EuroSAT,4,Magnitude,accuracy,mean,,88.98,88.981481,0.001481,MATCH,additional_low_budget
+tab:additional_results_review_grouped,EuroSAT,4,URS,accuracy,mean,,90.45,90.453704,0.003704,MATCH,additional_low_budget
+tab:additional_results_review_grouped,EuroSAT,avg,Magnitude,accuracy,mean,,73.76,73.759259,0.000741,MATCH,additional_low_budget
+tab:additional_results_review_grouped,EuroSAT,avg,URS,accuracy,mean,,75.51,75.506173,-0.003827,MATCH,additional_low_budget
+tab:llm_generative_results,GSM8K,1,Magnitude,accuracy,mean,,49.02,49.023438,0.003438,MATCH,llm_generative
+tab:llm_generative_results,GSM8K,1,URS,accuracy,mean,,50.49,50.488281,0.001719,MATCH,llm_generative
+tab:llm_generative_results,GSM8K,2,Magnitude,accuracy,mean,,52.64,52.636719,0.003281,MATCH,llm_generative
+tab:llm_generative_results,GSM8K,2,URS,accuracy,mean,,55.96,55.957031,0.002969,MATCH,llm_generative
+tab:llm_generative_results,GSM8K,4,Magnitude,accuracy,mean,,73.05,73.046875,0.003125,MATCH,llm_generative
+tab:llm_generative_results,GSM8K,4,URS,accuracy,mean,,74.12,74.121094,0.001094,MATCH,llm_generative
+tab:llm_generative_results,GSM8K,avg,Magnitude,accuracy,mean,,58.24,58.235677,0.004323,MATCH,llm_generative
+tab:llm_generative_results,GSM8K,avg,URS,accuracy,mean,,60.19,60.188802,0.001198,MATCH,llm_generative
+tab:llm_generative_results,HumanEval+,1,Magnitude,pass@1 (%),mean,0;1;2;3,36.89,36.8902439024,0.000244,MATCH,llm_generative
+tab:llm_generative_results,HumanEval+,1,URS,pass@1 (%),mean,0;1;2;3,37.04,37.0426829268,0.002683,MATCH,llm_generative
+tab:llm_generative_results,HumanEval+,2,Magnitude,pass@1 (%),mean,0;1;2;3,37.2,37.1951219512,0.004878,MATCH,llm_generative
+tab:llm_generative_results,HumanEval+,2,URS,pass@1 (%),mean,0;1;2;3,37.5,37.5,0.0,MATCH,llm_generative
+tab:llm_generative_results,HumanEval+,4,Magnitude,pass@1 (%),mean,0;1;2;3,36.89,36.8902439024,0.000244,MATCH,llm_generative
+tab:llm_generative_results,HumanEval+,4,URS,pass@1 (%),mean,0;1;2;3,39.48,39.4817073171,0.001707,MATCH,llm_generative
+tab:llm_generative_results,HumanEval+,avg,Magnitude,pass@1 (%),mean,0;1;2;3,36.99,36.9918699187,0.00187,MATCH,llm_generative
+tab:llm_generative_results,HumanEval+,avg,URS,pass@1 (%),mean,0;1;2;3,38.01,38.0081300813,0.00187,MATCH,llm_generative
+tab:per_seed_main_nlp,MNLI,1,Magnitude,accuracy,seed,0,36.97,36.971115,0.001115,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,1,Magnitude,accuracy,seed,1,42.53,42.534581,0.004581,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,1,Magnitude,accuracy,seed,2,38.3,38.303499,0.003499,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,1,Magnitude,accuracy,seed,3,38.04,38.039056,0.000944,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,1,Magnitude,accuracy,mean,,38.96,38.962063,0.002063,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,1,Magnitude,accuracy,se,,1.23,1.225167,0.004833,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,1,URS,accuracy,seed,0,39.57,39.574858,0.004858,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,1,URS,accuracy,seed,1,42.53,42.534581,0.004581,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,1,URS,accuracy,seed,2,38.73,38.730675,0.000675,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,1,URS,accuracy,seed,3,38.04,38.039056,0.000944,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,1,URS,accuracy,mean,,39.72,39.719793,0.000207,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,1,URS,accuracy,se,,0.99,0.989413,0.000587,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,2,Magnitude,accuracy,seed,0,38.78,38.78153,0.00153,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,2,Magnitude,accuracy,seed,1,46.04,46.043531,0.003531,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,2,Magnitude,accuracy,seed,2,40.82,40.815704,0.004296,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,2,Magnitude,accuracy,seed,3,40.58,40.581774,0.001774,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,2,Magnitude,accuracy,mean,,41.56,41.555635,0.004365,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,2,Magnitude,accuracy,se,,1.56,1.563457,0.003457,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,2,URS,accuracy,seed,0,44.0,43.999186,0.000814,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,2,URS,accuracy,seed,1,47.3,47.304719,0.004719,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,2,URS,accuracy,seed,2,43.12,43.124491,0.004491,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,2,URS,accuracy,seed,3,41.2,41.202197,0.002197,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,2,URS,accuracy,mean,,43.91,43.907648,0.002352,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,2,URS,accuracy,se,,1.27,1.274143,0.004143,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,4,Magnitude,accuracy,seed,0,45.89,45.890968,0.000968,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,4,Magnitude,accuracy,seed,1,54.52,54.515867,0.004133,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,4,Magnitude,accuracy,seed,2,49.02,49.023596,0.003596,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,4,Magnitude,accuracy,seed,3,50.96,50.956062,0.003938,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,4,Magnitude,accuracy,mean,,50.1,50.096623,0.003377,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,4,Magnitude,accuracy,se,,1.81,1.805253,0.004747,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,4,URS,accuracy,seed,0,54.86,54.861676,0.001676,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,4,URS,accuracy,seed,1,56.99,56.987388,0.002612,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,4,URS,accuracy,seed,2,53.9,53.895443,0.004557,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,4,URS,accuracy,seed,3,56.12,56.122864,0.002864,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,4,URS,accuracy,mean,,55.47,55.466843,0.003157,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MNLI,4,URS,accuracy,se,,0.68,0.681783,0.001783,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,1,Magnitude,accuracy,seed,0,50.24,50.243437,0.003437,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,1,Magnitude,accuracy,seed,1,52.16,52.162291,0.002291,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,1,Magnitude,accuracy,seed,2,56.23,56.229117,0.000883,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,1,Magnitude,accuracy,seed,3,54.4,54.396181,0.003819,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,1,Magnitude,accuracy,mean,,53.26,53.257757,0.002243,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,1,Magnitude,accuracy,se,,1.3,1.304197,0.004197,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,1,URS,accuracy,seed,0,50.41,50.405728,0.004272,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,1,URS,accuracy,seed,1,52.16,52.162291,0.002291,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,1,URS,accuracy,seed,2,57.15,57.145585,0.004415,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,1,URS,accuracy,seed,3,55.32,55.322196,0.002196,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,1,URS,accuracy,mean,,53.76,53.75895,0.00105,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,1,URS,accuracy,se,,1.52,1.519497,0.000503,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,2,Magnitude,accuracy,seed,0,50.38,50.377088,0.002912,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,2,Magnitude,accuracy,seed,1,52.82,52.821002,0.001002,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,2,Magnitude,accuracy,seed,2,58.99,58.988067,0.001933,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,2,Magnitude,accuracy,seed,3,57.32,57.317422,0.002578,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,2,Magnitude,accuracy,mean,,54.88,54.875895,0.004105,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,2,Magnitude,accuracy,se,,1.99,1.986053,0.003947,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,2,URS,accuracy,seed,0,51.64,51.637232,0.002768,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,2,URS,accuracy,seed,1,53.0,53.002387,0.002387,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,2,URS,accuracy,seed,2,59.71,59.713604,0.003604,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,2,URS,accuracy,seed,3,57.89,57.890215,0.000215,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,2,URS,accuracy,mean,,55.56,55.560859,0.000859,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,2,URS,accuracy,se,,1.93,1.928121,0.001879,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,4,Magnitude,accuracy,seed,0,53.94,53.937947,0.002053,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,4,Magnitude,accuracy,seed,1,57.37,57.374702,0.004702,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,4,Magnitude,accuracy,seed,2,65.93,65.928401,0.001599,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,4,Magnitude,accuracy,seed,3,63.38,63.379475,0.000525,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,4,Magnitude,accuracy,mean,,60.16,60.155131,0.004869,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,4,Magnitude,accuracy,se,,2.74,2.740304,0.000304,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,4,URS,accuracy,seed,0,55.89,55.894988,0.004988,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,4,URS,accuracy,seed,1,57.41,57.412888,0.002888,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,4,URS,accuracy,seed,2,66.57,66.568019,0.001981,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,4,URS,accuracy,seed,3,64.57,64.572792,0.002792,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,4,URS,accuracy,mean,,61.11,61.112172,0.002172,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,QNLI,4,URS,accuracy,se,,2.62,2.624339,0.004339,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,1,Magnitude,accuracy,seed,0,59.4,59.400545,0.000545,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,1,Magnitude,accuracy,seed,1,62.13,62.125341,0.004659,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,1,Magnitude,accuracy,seed,2,37.87,37.874659,0.004659,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,1,Magnitude,accuracy,seed,3,58.86,58.855586,0.004414,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,1,Magnitude,accuracy,mean,,54.56,54.564033,0.004033,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,1,Magnitude,accuracy,se,,5.61,5.608905,0.001095,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,1,URS,accuracy,seed,0,61.31,61.307902,0.002098,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,1,URS,accuracy,seed,1,62.4,62.39782,0.00218,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,1,URS,accuracy,seed,2,41.42,41.416894,0.003106,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,1,URS,accuracy,seed,3,58.31,58.310627,0.000627,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,1,URS,accuracy,mean,,55.86,55.858311,0.001689,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,1,URS,accuracy,se,,4.89,4.890736,0.000736,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,2,Magnitude,accuracy,seed,0,61.04,61.035422,0.004578,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,2,Magnitude,accuracy,seed,1,64.03,64.032698,0.002698,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,2,Magnitude,accuracy,seed,2,42.51,42.506812,0.003188,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,2,Magnitude,accuracy,seed,3,60.22,60.217984,0.002016,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,2,Magnitude,accuracy,mean,,56.95,56.948229,0.001771,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,2,Magnitude,accuracy,se,,4.88,4.88314,0.00314,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,2,URS,accuracy,seed,0,62.13,62.125341,0.004659,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,2,URS,accuracy,seed,1,64.31,64.305177,0.004823,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,2,URS,accuracy,seed,2,45.23,45.231608,0.001608,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,2,URS,accuracy,seed,3,62.4,62.39782,0.00218,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,2,URS,accuracy,mean,,58.51,58.514986,0.004986,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,2,URS,accuracy,se,,4.45,4.454263,0.004263,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,4,Magnitude,accuracy,seed,0,66.49,66.485014,0.004986,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,4,Magnitude,accuracy,seed,1,68.94,68.93733,0.00267,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,4,Magnitude,accuracy,seed,2,51.5,51.498638,0.001362,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,4,Magnitude,accuracy,seed,3,66.76,66.757493,0.002507,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,4,Magnitude,accuracy,mean,,63.42,63.419619,0.000381,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,4,Magnitude,accuracy,se,,4.01,4.011369,0.001369,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,4,URS,accuracy,seed,0,70.03,70.027248,0.002752,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,4,URS,accuracy,seed,1,69.75,69.754768,0.004768,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,4,URS,accuracy,seed,2,56.13,56.13079,0.00079,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,4,URS,accuracy,seed,3,68.12,68.119891,0.000109,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,4,URS,accuracy,mean,,66.01,66.008174,0.001826,MATCH,per_seed_main_nlp
+tab:per_seed_main_nlp,MRPC,4,URS,accuracy,se,,3.32,3.319287,0.000713,MATCH,per_seed_main_nlp
+tab:per_seed_main_vision,CIFAR-10,1,Magnitude,accuracy,seed,0,92.96,92.96,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,1,Magnitude,accuracy,seed,1,93.78,93.78,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,1,Magnitude,accuracy,seed,2,93.26,93.26,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,1,Magnitude,accuracy,seed,3,93.22,93.22,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,1,Magnitude,accuracy,mean,,93.31,93.305,0.005,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,1,Magnitude,accuracy,se,,0.17,0.171731,0.001731,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,1,URS,accuracy,seed,0,93.43,93.43,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,1,URS,accuracy,seed,1,93.92,93.92,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,1,URS,accuracy,seed,2,93.26,93.26,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,1,URS,accuracy,seed,3,93.22,93.22,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,1,URS,accuracy,mean,,93.46,93.4575,0.0025,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,1,URS,accuracy,se,,0.16,0.160747,0.000747,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,2,Magnitude,accuracy,seed,0,94.3,94.3,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,2,Magnitude,accuracy,seed,1,94.94,94.94,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,2,Magnitude,accuracy,seed,2,94.53,94.53,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,2,Magnitude,accuracy,seed,3,94.34,94.34,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,2,Magnitude,accuracy,mean,,94.53,94.5275,0.0025,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,2,Magnitude,accuracy,se,,0.15,0.146366,0.003634,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,2,URS,accuracy,seed,0,94.9,94.9,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,2,URS,accuracy,seed,1,95.14,95.14,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,2,URS,accuracy,seed,2,94.94,94.94,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,2,URS,accuracy,seed,3,94.87,94.87,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,2,URS,accuracy,mean,,94.96,94.9625,0.0025,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,2,URS,accuracy,se,,0.06,0.060879,0.000879,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,4,Magnitude,accuracy,seed,0,96.57,96.57,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,4,Magnitude,accuracy,seed,1,96.73,96.73,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,4,Magnitude,accuracy,seed,2,96.51,96.51,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,4,Magnitude,accuracy,seed,3,96.43,96.43,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,4,Magnitude,accuracy,mean,,96.56,96.56,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,4,Magnitude,accuracy,se,,0.06,0.063509,0.003509,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,4,URS,accuracy,seed,0,96.7,96.7,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,4,URS,accuracy,seed,1,96.77,96.77,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,4,URS,accuracy,seed,2,96.86,96.86,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,4,URS,accuracy,seed,3,96.73,96.73,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,4,URS,accuracy,mean,,96.77,96.765,0.005,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-10,4,URS,accuracy,se,,0.03,0.034761,0.004761,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,1,Magnitude,accuracy,seed,0,78.74,78.74,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,1,Magnitude,accuracy,seed,1,80.04,80.04,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,1,Magnitude,accuracy,seed,2,79.39,79.39,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,1,Magnitude,accuracy,seed,3,80.19,80.19,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,1,Magnitude,accuracy,mean,,79.59,79.59,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,1,Magnitude,accuracy,se,,0.33,0.33229,0.00229,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,1,URS,accuracy,seed,0,79.38,79.38,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,1,URS,accuracy,seed,1,80.36,80.36,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,1,URS,accuracy,seed,2,79.43,79.43,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,1,URS,accuracy,seed,3,80.43,80.43,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,1,URS,accuracy,mean,,79.9,79.9,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,1,URS,accuracy,se,,0.29,0.286327,0.003673,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,2,Magnitude,accuracy,seed,0,81.72,81.72,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,2,Magnitude,accuracy,seed,1,82.45,82.45,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,2,Magnitude,accuracy,seed,2,81.91,81.91,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,2,Magnitude,accuracy,seed,3,82.21,82.21,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,2,Magnitude,accuracy,mean,,82.07,82.0725,0.0025,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,2,Magnitude,accuracy,se,,0.16,0.161265,0.001265,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,2,URS,accuracy,seed,0,82.41,82.41,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,2,URS,accuracy,seed,1,83.17,83.17,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,2,URS,accuracy,seed,2,82.27,82.27,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,2,URS,accuracy,seed,3,82.8,82.8,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,2,URS,accuracy,mean,,82.66,82.6625,0.0025,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,2,URS,accuracy,se,,0.2,0.202952,0.002952,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,4,Magnitude,accuracy,seed,0,85.52,85.52,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,4,Magnitude,accuracy,seed,1,86.04,86.04,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,4,Magnitude,accuracy,seed,2,85.45,85.45,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,4,Magnitude,accuracy,seed,3,85.96,85.96,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,4,Magnitude,accuracy,mean,,85.74,85.7425,0.0025,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,4,Magnitude,accuracy,se,,0.15,0.150243,0.000243,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,4,URS,accuracy,seed,0,86.06,86.06,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,4,URS,accuracy,seed,1,86.67,86.67,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,4,URS,accuracy,seed,2,85.71,85.71,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,4,URS,accuracy,seed,3,86.35,86.35,0.0,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,4,URS,accuracy,mean,,86.2,86.1975,0.0025,MATCH,per_seed_main_vision
+tab:per_seed_main_vision,CIFAR-100,4,URS,accuracy,se,,0.2,0.204751,0.004751,MATCH,per_seed_main_vision
+tab:hans_shift,HANS-derived Dsel (adversarial shift),1,URS - Magnitude,MNLI test accuracy delta (pp),mean,0;1;2;3,0.76,0.7577298617,0.00227,MATCH,hans_shift
+tab:hans_shift,HANS-derived Dsel (adversarial shift),1,URS - Magnitude,MNLI test accuracy delta (pp),std,0;1;2;3,1.25,1.2470416503,0.002958,MATCH,hans_shift
+tab:hans_shift,HANS-derived Dsel (adversarial shift),2,URS - Magnitude,MNLI test accuracy delta (pp),mean,0;1;2;3,1.84,1.8409275834,0.000928,MATCH,hans_shift
+tab:hans_shift,HANS-derived Dsel (adversarial shift),2,URS - Magnitude,MNLI test accuracy delta (pp),std,0;1;2;3,2.84,2.8371807232,0.002819,MATCH,hans_shift
+tab:hans_shift,HANS-derived Dsel (adversarial shift),4,URS - Magnitude,MNLI test accuracy delta (pp),mean,0;1;2;3,3.49,3.4860659072,0.003934,MATCH,hans_shift
+tab:hans_shift,HANS-derived Dsel (adversarial shift),4,URS - Magnitude,MNLI test accuracy delta (pp),std,0;1;2;3,5.03,5.0262172902,0.003783,MATCH,hans_shift
+tab:hans_shift,MNLI validation (in-distribution),1,URS - Magnitude,MNLI test accuracy delta (pp),mean,0;1;2;3,0.76,0.7577298617,0.00227,MATCH,hans_shift
+tab:hans_shift,MNLI validation (in-distribution),1,URS - Magnitude,MNLI test accuracy delta (pp),std,0;1;2;3,1.25,1.2470416503,0.002958,MATCH,hans_shift
+tab:hans_shift,MNLI validation (in-distribution),2,URS - Magnitude,MNLI test accuracy delta (pp),mean,0;1;2;3,2.35,2.3520138324,0.002014,MATCH,hans_shift
+tab:hans_shift,MNLI validation (in-distribution),2,URS - Magnitude,MNLI test accuracy delta (pp),std,0;1;2;3,2.03,2.0332309822,0.003231,MATCH,hans_shift
+tab:hans_shift,MNLI validation (in-distribution),4,URS - Magnitude,MNLI test accuracy delta (pp),mean,0;1;2;3,5.37,5.3702196908,0.00022,MATCH,hans_shift
+tab:hans_shift,MNLI validation (in-distribution),4,URS - Magnitude,MNLI test accuracy delta (pp),std,0;1;2;3,2.69,2.6867402855,0.00326,MATCH,hans_shift
+tab:gate_active_resampling,MRPC,0.25,Gated URS vs URS-no-gate,gate activity / resampling,selection_size,0;1;2;3 with resamples as applicable,92.0,92.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,MRPC,0.25,Gated URS vs URS-no-gate,gate activity / resampling,changed_cells,0;1;2;3 with resamples as applicable,1.0,1.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,MRPC,0.25,Gated URS vs URS-no-gate,gate activity / resampling,total_cells,0;1;2;3 with resamples as applicable,60.0,60.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,MRPC,0.25,Gated URS vs URS-no-gate,gate activity / resampling,mean_delta_pp,0;1;2;3 with resamples as applicable,0.545,0.544959,4.1e-05,MATCH,gate_active_resampling
+tab:gate_active_resampling,MRPC,0.5,Gated URS vs URS-no-gate,gate activity / resampling,selection_size,0;1;2;3 with resamples as applicable,184.0,184.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,MRPC,0.5,Gated URS vs URS-no-gate,gate activity / resampling,changed_cells,0;1;2;3 with resamples as applicable,1.0,1.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,MRPC,0.5,Gated URS vs URS-no-gate,gate activity / resampling,total_cells,0;1;2;3 with resamples as applicable,60.0,60.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,MRPC,0.5,Gated URS vs URS-no-gate,gate activity / resampling,mean_delta_pp,0;1;2;3 with resamples as applicable,-0.545,-0.544959,4.1e-05,MATCH,gate_active_resampling
+tab:gate_active_resampling,MRPC,0.75,Gated URS vs URS-no-gate,gate activity / resampling,selection_size,0;1;2;3 with resamples as applicable,275.0,275.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,MRPC,0.75,Gated URS vs URS-no-gate,gate activity / resampling,changed_cells,0;1;2;3 with resamples as applicable,0.0,0.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,MRPC,0.75,Gated URS vs URS-no-gate,gate activity / resampling,total_cells,0;1;2;3 with resamples as applicable,60.0,60.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,MRPC,1.0,Gated URS vs URS-no-gate,gate activity / resampling,selection_size,0;1;2;3 with resamples as applicable,367.0,367.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,MRPC,1.0,Gated URS vs URS-no-gate,gate activity / resampling,changed_cells,0;1;2;3 with resamples as applicable,0.0,0.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,MRPC,1.0,Gated URS vs URS-no-gate,gate activity / resampling,total_cells,0;1;2;3 with resamples as applicable,12.0,12.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,CoLA,0.25,Gated URS vs URS-no-gate,gate activity / resampling,selection_size,0;1;2;3 with resamples as applicable,214.0,214.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,CoLA,0.25,Gated URS vs URS-no-gate,gate activity / resampling,changed_cells,0;1;2;3 with resamples as applicable,13.0,13.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,CoLA,0.25,Gated URS vs URS-no-gate,gate activity / resampling,total_cells,0;1;2;3 with resamples as applicable,60.0,60.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,CoLA,0.25,Gated URS vs URS-no-gate,gate activity / resampling,mean_delta_pp,0;1;2;3 with resamples as applicable,0.027,0.026959,4.1e-05,MATCH,gate_active_resampling
+tab:gate_active_resampling,CoLA,0.5,Gated URS vs URS-no-gate,gate activity / resampling,selection_size,0;1;2;3 with resamples as applicable,428.0,428.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,CoLA,0.5,Gated URS vs URS-no-gate,gate activity / resampling,changed_cells,0;1;2;3 with resamples as applicable,8.0,8.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,CoLA,0.5,Gated URS vs URS-no-gate,gate activity / resampling,total_cells,0;1;2;3 with resamples as applicable,60.0,60.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,CoLA,0.5,Gated URS vs URS-no-gate,gate activity / resampling,mean_delta_pp,0;1;2;3 with resamples as applicable,0.029,0.0292056,0.000206,MATCH,gate_active_resampling
+tab:gate_active_resampling,CoLA,0.75,Gated URS vs URS-no-gate,gate activity / resampling,selection_size,0;1;2;3 with resamples as applicable,642.0,642.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,CoLA,0.75,Gated URS vs URS-no-gate,gate activity / resampling,changed_cells,0;1;2;3 with resamples as applicable,11.0,11.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,CoLA,0.75,Gated URS vs URS-no-gate,gate activity / resampling,total_cells,0;1;2;3 with resamples as applicable,60.0,60.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,CoLA,0.75,Gated URS vs URS-no-gate,gate activity / resampling,mean_delta_pp,0;1;2;3 with resamples as applicable,0.074,0.0743415,0.000342,MATCH,gate_active_resampling
+tab:gate_active_resampling,CoLA,1.0,Gated URS vs URS-no-gate,gate activity / resampling,selection_size,0;1;2;3 with resamples as applicable,856.0,856.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,CoLA,1.0,Gated URS vs URS-no-gate,gate activity / resampling,changed_cells,0;1;2;3 with resamples as applicable,3.0,3.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,CoLA,1.0,Gated URS vs URS-no-gate,gate activity / resampling,total_cells,0;1;2;3 with resamples as applicable,12.0,12.0,0.0,MATCH,gate_active_resampling
+tab:gate_active_resampling,CoLA,1.0,Gated URS vs URS-no-gate,gate activity / resampling,mean_delta_pp,0;1;2;3 with resamples as applicable,0.039,0.0389408,5.9e-05,MATCH,gate_active_resampling
