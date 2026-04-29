@@ -14,8 +14,12 @@ This folder contains anonymized CSV files that support the numeric values report
 - `gate_active_resampling_checked.csv` / `gate_active_resampling_summary.csv`: checked gate-active resampling diagnostics.
 - `humanevalplus_qwen_coder7b_pass1_summary.csv`: pass@1 summary used for the HumanEval+ rows.
 
+## Naming note
+
+The paper-facing name of the proposed selector is **URS**. In the released code, some internal method names retain the earlier development label `v5` for compatibility with existing scripts, configs, and result-collection utilities. Throughout this supplement, `v5` denotes **URS**, and `greedy_v5` denotes **Greedy-URS**. The baseline `mag` denotes the magnitude selector.
+
 ## Anonymity notes
 
 The released CSVs intentionally exclude raw local paths, user names, institutional names, emails, issue-tracker notes, source inventories, and raw log/manifests. Internal audit sheets such as `Anonymity_Flags.csv`, `Source_Inventory.csv`, `Source_Values.csv`, and `Issues.csv` are not included in this public supplement.
 
-The code uses public dataset/model identifiers where needed for reproducibility. No private checkpoints, tokens, cache paths, or machine-specific paths are included.
+The code uses public dataset/model identifiers where needed for reproducibility. No private checkpoints, tokens, cache paths, generated logs, or machine-specific paths are included.
