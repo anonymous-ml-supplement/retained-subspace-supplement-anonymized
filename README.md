@@ -160,3 +160,5 @@ The experiment scripts record arguments, library versions, GPU model names, and 
 ## Result CSVs
 
 Anonymized table-aligned CSV files are provided in `results/`. These files exclude raw logs, local paths, account names, emails, and institution-specific identifiers.
+
+Rows with undefined aggregate deltas, such as resampling conditions with zero changed selections, are retained for audit completeness and marked as not applicable where appropriate.
