@@ -898,7 +898,7 @@ def parse_args() -> argparse.Namespace:
     ap.add_argument("--alpha-v5", type=float, default=1.2)
     ap.add_argument("--beta-v5", type=float, default=0.9)
     ap.add_argument("--gamma-v5", type=float, default=0.3)
-    ap.add_argument("--js-temperature", type=float, default=1.0)
+    ap.add_argument("--js-temperature", type=float, default=2.0)
     ap.add_argument("--enable-greedy-selector", type=int, default=1)
     ap.add_argument("--greedy-base-method", type=str, default="v5")
     ap.add_argument("--greedy-similarity", type=str, default="cosine", choices=["cosine", "js", "corr"])

@@ -20,6 +20,7 @@ if [[ "${RUN_GSM8K_QWEN}" == "1" ]]; then
     --enable-greedy-selector 0 \
     --lora-r 16 \
     --lora-alpha 32 \
+    --js-temperature "${JS_TEMPERATURE:-2.0}" \
     --output-dir "${OUT_ROOT}/llm_sanity/gsm8k_qwen_math_7b_r16" \
     2>&1 | tee "${LOG_ROOT}/llm_sanity/gsm8k_qwen_math_7b_r16.log"
 fi

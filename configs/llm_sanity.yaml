@@ -1,6 +1,7 @@
 # Reference settings for supporting generative LLM retained-subspace checks.
 seeds: [0, 1, 2, 3]
 retained_budgets: [1, 2, 4]
+js_temperature: 2.0
 gsm8k_qwen_math_7b:
   script: llm_sanity/gsm8k_qwen_math7b_experiment.py
   model: Qwen/Qwen2.5-Math-7B

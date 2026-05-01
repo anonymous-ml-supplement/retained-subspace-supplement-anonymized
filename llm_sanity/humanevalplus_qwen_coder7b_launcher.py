@@ -116,7 +116,7 @@ def main() -> int:
         "--alpha-v5", "1.2",
         "--beta-v5", "0.9",
         "--gamma-v5", "0.3",
-        "--js-temperature", "1.0",
+        "--js-temperature", "2.0",
         "--run-evalplus", "1",
         "--evalplus-timeout", "1800",
         "--save-predictions", "1",

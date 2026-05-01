@@ -35,7 +35,7 @@ tab:main_results_review_grouped,MRPC,4,URS,accuracy,mean,,66.01,66.008174,0.0018
 tab:main_results_review_grouped,MRPC,avg,Magnitude,accuracy,mean,,58.31,58.310627,0.000627,MATCH,main_low_budget
 tab:main_results_review_grouped,MRPC,avg,URS-E_i,accuracy,mean,,60.13,60.127157,0.002843,MATCH,main_low_budget
 tab:main_results_review_grouped,MRPC,avg,URS,accuracy,mean,,60.13,60.127157,0.002843,MATCH,main_low_budget
-tab:main_results_review_grouped,CIFAR-10,1,Magnitude,accuracy,mean,,93.3,93.305,0.005,MATCH,main_low_budget
+tab:main_results_review_grouped,CIFAR-10,1,Magnitude,accuracy,mean,,93.31,93.305,0.005,MATCH,main_low_budget
 tab:main_results_review_grouped,CIFAR-10,1,URS-E_i,accuracy,mean,,93.46,93.4575,0.0025,MATCH,main_low_budget
 tab:main_results_review_grouped,CIFAR-10,1,URS,accuracy,mean,,93.46,93.4575,0.0025,MATCH,main_low_budget
 tab:main_results_review_grouped,CIFAR-10,2,Magnitude,accuracy,mean,,94.53,94.5275,0.0025,MATCH,main_low_budget
